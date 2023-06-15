@@ -4,14 +4,14 @@
 Welcome to my programming project portfolio! Here you'll find a collection of some of my diverse and relevant programming projects; I've ensured to include an array of projects that showcase my capability over all aspects of web and full-stack development. You'll find my take on the important but often overlooked design and prototyping phase, all the way to my understanding of creating fully fledged full-stack applications, and then the web analytics to ensure the site is active and in use.
 
 In this ZIP file, you should find nine directories:
-> ascii-uno
-> design-and-prototyping
-> diabyte
-> dna
-> filter
-> finance
-> monopoly
-> speak-up
+> ascii-uno<br/>
+> design-and-prototyping<br/>
+> diabyte<br/>
+> dna<br/>
+> filter<br/>
+> finance<br/>
+> monopoly<br/>
+> speak-up<br/>
 > unity-rpg
 
 I will go through them one by one in this README file.
@@ -31,8 +31,8 @@ One thing I wanted to prioritize whilst creating this app is UI; the product has
 For that reason, the design phase of the app is crucial, and must be thoroughly thought-out in order to ensure the user's experience is exceptional. In addition, the app has to set itself apart from the hundreds of already existing vocabulary apps out there.
 
 In the `design-and-prototyping` directory, you'll find a subdirectory named `design`. In this subdirectory, you'll find three files:
-> design.fig
-> design.pdf
+> design.fig<br/>
+> design.pdf<br/>
 > VAS_Report.pdf
 
 If you have Figma, open the `design.fig` file. Otherwise, you can open the `design.pdf` file, which has the same slides but in a PDF format. It is not interactive, however.
