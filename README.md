@@ -1,5 +1,7 @@
 # Programming  Portfolio
 
+> A recent front-end proof-of-concept demo of mine, for DIATECH 2023: https://discover-dubai.netlify.app/.
+
 ## Introduction
 Welcome to my programming project portfolio! Here you'll find a collection of some of my diverse and relevant programming projects; I've ensured to include an array of projects that showcase my capability over all aspects of web and full-stack development. You'll find my take on the important but often overlooked design and prototyping phase, all the way to my understanding of creating fully fledged full-stack applications, and then the web analytics to ensure the site is active and in use.
 
